@@ -1,0 +1,122 @@
+Table: The photocatalysis data used for the ML model,,,,,,,
+Photocatalyst',Contaminants,"""Dose_gL""","""Size_nm""'",""" Conc_mgL""","""pH""","""source""","""k_min1"""
+ZnO,Phenoxyacetic acid,0.3,N/A,15,6,1,0
+ZnO,Phenoxyacetic acid,0.5,N/A,15,6,1,0
+ZnO,Phenoxyacetic acid,0.3,N/A,25,6,1,0
+ZnO,Phenoxyacetic acid,0.5,N/A,25,6,1,0
+ZnO,Phenoxyacetic acid,0.3,N/A,15,8,1,0.1
+ZnO,Phenoxyacetic acid,0.5,N/A,15,8,1,0.1
+ZnO,Phenoxyacetic acid,0.3,N/A,25,8,1,0
+ZnO,Phenoxyacetic acid,0.5,N/A,25,8,1,0
+ZnO,Phenoxyacetic acid,0.2,N/A,20,7,1,0
+ZnO,Phenoxyacetic acid,0.6,N/A,20,7,1,0
+ZnO,Phenoxyacetic acid,0.4,N/A,10,7,1,0.1
+ZnO,Phenoxyacetic acid,0.4,N/A,30,7,1,0
+ZnO,Phenoxyacetic acid,0.4,N/A,20,5,1,0
+ZnO,Phenoxyacetic acid,0.4,N/A,20,9,1,0
+ZnO,Phenoxyacetic acid,0.4,N/A,20,7,1,0.1
+ZnO,Phenoxyacetic acid,0.4,N/A,17,7.93,1,0.1
+ZnO,Phenoxyacetic acid,0.4,N/A,17,7.12,1,0.1
+ZnO,Phenoxyacetic acid,0.4,N/A,19,7.21,1,0.1
+ZnO,Phenoxyacetic acid,0.4,N/A,16,6.73,1,0.1
+ZnO,Phenoxyacetic acid,0.4,N/A,15,7.01,1,0.1
+ZnO,4-Nitrophenol,1.5,100-4000,27.82,1,3,0
+ZnO,4-Nitrophenol,1.5,100-4000,27.82,3,3,0
+ZnO,4-Nitrophenol,1.5,100-4000,27.82,5,3,0
+ZnO,4-Nitrophenol,1.5,100-4000,27.82,7,3,0
+ZnO,4-Nitrophenol,1.5,100-4000,27.82,9,3,0
+ZnO,4-Nitrophenol,1.5,100-4000,27.82,11,3,0.1
+ZnO,4-Nitrophenol,1.5,100-4000,55.64,5,3,0
+ZnO,4-Nitrophenol,1.5,100-4000,83.46,5,3,0
+ZnO,4-Nitrophenol,1.5,100-4000,111.28,5,3,0
+ZnO,Congo red,0.2,30.1,16.02,N/A,1,0
+ZnO,Direct blue 15,0.5,N/A,25,N/A,2,0
+ZnO,Crystal violet,0.4,~200,10,9,3,0.1
+ZnO,Basic Blue-41,0.4,~200,10,9,3,0.1
+ZnO,Methyl red,0.4,~200,10,9,3,0
+ZnO,Triclocarban,1,>1000,0.11,7,1,0
+ZnO,Ciprofloxacin,0.02,2.1,5,4,2,0
+ZnO,Ciprofloxacin,0.02,2.1,5,7,2,0
+ZnO,Ciprofloxacin,0.02,2.1,5,10,2,0
+ZnO,Carbamazepine,0.05,N/A,1,7,2,0
+ZnO,Diclofenac sodium,0.05,N/A,1,7,2,0.1
+ZnO,Ibuprofen sodium,0.05,N/A,1,7,2,0
+ZnO,Metronidazole,0.02,20-50,10,N/A,2,0.1
+ZnO,2-Chlorophenol,1,18,50,N/A,3,0
+ZnO,Phenol,0.5,N/A,10,5.2,1,0
+ZnO,Phenol,1,N/A,10,5.2,1,0.1
+ZnO,Phenol,1.5,N/A,10,5.2,1,0.1
+ZnO,Phenol,2,N/A,10,5.2,1,0.1
+ZnO,Phenol,2.5,N/A,10,5.2,1,0.1
+ZnO,Phenol,3,N/A,10,5.2,1,0.1
+ZnO,Phenol,2.5,N/A,10,4,1,0.1
+ZnO,Phenol,2.5,N/A,10,6.8,1,0.1
+ZnO,Phenol,2.5,N/A,10,7,1,0.1
+ZnO,Phenol,2.5,N/A,10,9,1,0
+ZnO,Phenol,2.5,N/A,10,11,1,0
+ZnO,Phenol,2.5,N/A,20,5.2,1,0
+ZnO,Phenol,2.5,N/A,40,5.2,1,0
+ZnO,Phenol,2.5,N/A,80,5.2,1,0
+ZnO,Resorcinol,0.5,N/A,10,6.8,1,0.1
+ZnO,Resorcinol,1,N/A,10,6.8,1,0.1
+ZnO,Resorcinol,1.5,N/A,10,6.8,1,0.1
+ZnO,Resorcinol,2.5,N/A,10,6.8,1,0.1
+ZnO,Resorcinol,3,N/A,10,6.8,1,0.1
+ZnO,Resorcinol,2,N/A,10,4,1,0.1
+ZnO,Resorcinol,2,N/A,10,5.2,1,0.1
+ZnO,Resorcinol,2,N/A,20,11,1,0.1
+ZnO,Resorcinol,2,N/A,40,11,1,0
+ZnO,Resorcinol,2,N/A,80,11,1,0
+TiO2,4-Chlorophenol,0.5,<44000,1.29,5.5,1,0.1
+TiO2,4-Chlorophenol,0.5,<44000,2.57,5.5,1,0
+TiO2,4-Chlorophenol,0.5,<44000,5.14,5.5,1,0
+TiO2,4-Chlorophenol,0.5,<44000,6.43,5.5,1,0
+TiO2,4-Chlorophenol,0.5,<44000,10.28,5.5,1,0
+TiO2,4-Chlorophenol,0.5,<44000,12.86,5.5,1,0
+TiO2,4-Chlorophenol,0.5,<44000,16.2,5.5,1,0
+TiO2,"2,6-Dichlorophenol",0.5,<44000,3.26,5.5,1,0.1
+TiO2,"2,6-Dichlorophenol",0.5,<44000,6.52,5.5,1,0
+TiO2,"2,6-Dichlorophenol",0.5,<44000,8.15,5.5,1,0
+TiO2,"2,6-Dichlorophenol",0.5,<44000,13.04,5.5,1,0
+TiO2,"2,6-Dichlorophenol",0.5,<44000,16.3,5.5,1,0
+TiO2,Sulfanilamide,2.5,<40000,17.22,6.69,1,0
+TiO2,"Sulfacetamide 
+sodium",2.5,<40000,23.62,7.35,1,0
+TiO2,Sulfamethoxazole,2.5,<40000,25.33,5.63,1,0
+TiO2,Sulfadiazine sodium,2.5,<40000,27.23,6.6,1,0
+TiO2,Sulfathiazole sodium,2.5,<40000,27.73,7.1,1,0
+TiO2,Carbamazepine,0.1,<10,4.3,6.5,1,0
+TiO2,Carbamazepine,1,<10,4.3,6.5,1,0
+TiO2,Carbamazepine,0.1,<10,1,6.5,1,0
+TiO2,Carbamazepine,1,<10,1,6.5,1,0.1
+TiO2,Clofibric acid,0.05,<10,5,6.5,1,0
+TiO2,Clofibric acid,0.08,<10,5,6.5,1,0
+TiO2,Clofibric acid,0.5,<10,5,6.5,1,0
+TiO2,Clofibric acid,0.08,<10,0.5,6.5,1,0
+TiO2,Reactive violet 5,0.08,230,10,4,1,0.1
+TiO2,Reactive violet 5,0.08,230,10,5,1,0.1
+TiO2,Reactive violet 5,0.08,230,10,6,1,0.1
+TiO2,Reactive violet 5,0.08,230,10,8,1,0.1
+TiO2,Reactive violet 5,0.08,230,10,9,1,0.1
+TiO2,Reactive violet 5,0.08,230,10,10,1,0.1
+TiO2,Reactive violet 5,0.08,230,15,4,1,0.1
+TiO2,Reactive violet 5,0.08,230,20,4,1,0.1
+TiO2,Reactive violet 5,0.08,230,30,4,1,0
+TiO2,Reactive violet 5,0.08,230,40,4,1,0
+TiO2,Reactive violet 5,0.08,230,50,4,1,0
+TiO2,Reactive violet 5,0.01,230,10,4,1,0
+TiO2,Reactive violet 5,0.04,230,10,4,1,0
+TiO2,Reactive violet 5,0.05,230,10,4,1,0
+TiO2,Reactive violet 5,0.06,230,10,4,1,0.1
+TiO2,Reactive violet 5,0.07,230,10,4,1,0.1
+TiO2,Crystal violet,0.4,55-170,10,9,3,0
+TiO2,Basic blue 41,0.4,55-170,10,9,3,0
+TiO2,Methyl red,0.4,55-170,10,9,3,0
+TiO2,Reactive blue 4,1,<25,60,6,1,0.1
+TiO2,Methylene blue,2,37.71,100,N/A,1,0
+TiO2,Methyl orange,2,37.71,100,N/A,1,0
+TiO2,Rhodamine B,2,37.71,100,N/A,1,0
+TiO2,Carmine indigo,2,37.71,100,N/A,1,0.1
+TiO2,Eriochrome Black T,2,37.71,100,N/A ,1,0.1
+*D denotes diameter. L denotes length. ,,,,,,,
+"#For light type, 1 denotes UV, 2 denotes visible light, and 3 denotes sunlight. ",,,,,,,

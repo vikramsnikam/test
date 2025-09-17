@@ -1,0 +1,85 @@
+ Z-Test
+Definition
+Z-Test: A statistical test used when sample size is large (n > 30) and population standard deviation is known.
+When to Use:
+? Large sample (n > 30)
+? Population standard deviation (?) is known
+? Testing if sample mean is different from population mean
+Formula
+Z = (Sample Mean - Population Mean) / (Population Standard Deviation / ?Sample Size)
+Z = (x? - ?) / (? / ?n)
+
+For 95% confidence level, critical values are:
+? If Z < -1.96 OR Z > +1.96 ? Significant difference (Reject claim).
+
+? If -1.96 ? Z ? +1.96 ? No significant difference (Accept claim).
+
+Example 1: Potato Chips Weight
+Situation: Chips packet says "Weight: 100g". You suspect packets are underweight.
+Known Information:
+ Population mean = 100g (claimed)
+Population standard deviation = 5g (from past data)
+ Sample size (n) = 50 packets
+Your Sample:
+ Sample mean (x) = 98.5g
+Z-Test Calculation:
+Z = (98.5 - 100) / (5 / square root 50)
+Z = -1.5 / 0.707
+Z = -2.12
+
+What This Means:
+ If Z < -1.96 or Z > 1.96, difference is significant (95% confidence)
+ Your Z = -2.12, so packets are significantly underweight!
+
+Example 2: Student IQ Test
+Situation: School claims their students have higher IQ than national average.
+Given:
+? National average IQ (?) = 100
+? National standard deviation (?) = 15
+? Sample: 40 students from the school
+? Sample average IQ (x?) = 105
+Z-Test:
+Z = (105 - 100) / (15 / square root 40)
+Z = 5 / 2.37
+Z = 2.11
+
+Result: Z = 2.11 > 1.96, so students do have significantly higher IQ!
+Example 3: Call Center Response Time
+Situation: Call center promises average response time of 3 minutes.
+Data:
+? Promised time (?) = 3 minutes
+? Historical standard deviation (?) = 1.2 minutes
+? Sample: 60 calls
+? Sample average (x?) = 3.4 minutes
+Test:
+Z = (3.4 - 3) / (1.2 / ?60)
+Z = 0.4 / 0.155
+Z = 2.58
+
+Conclusion: Z = 2.58 > 1.96, response time is significantly longer than promised.
+Python Example: Z-Test
+import numpy as np
+from scipy.stats import norm
+
+# Example: Testing if average weight is different from 100g
+sample_mean = 98.5
+population_mean = 100
+population_std = 5
+sample_size = 50
+alpha = 0.05
+
+# Calculate Z-statistic
+z_stat = (sample_mean - population_mean) / (population_std / np.sqrt(sample_size))
+
+# Calculate p-value (two-tailed test)
+p_value = 2 * (1 - norm.cdf(abs(z_stat)))
+
+print(f"Z-statistic: {z_stat:.2f}")
+print(f"P-value: {p_value:.4f}")
+
+if p_value < alpha:
+    print("Reject H0: Weight is significantly different from 100g")
+else:
+    print("Fail to reject H0: No significant difference")
+
+

@@ -1,0 +1,9 @@
+{
+    "index": [0, 1, 2],
+    "columns": ["name", "age", "city"],
+    "data": [
+        ["Alice", 25, "New York"],
+        ["Bob", 30, "London"],
+        ["Charlie", 35, "Paris"]
+    ]
+}

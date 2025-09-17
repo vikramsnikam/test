@@ -1,0 +1,1179 @@
+﻿Supplementary materials 
+Table S1: The photocatalysis data used for the CGCNN-MF-ANN model
+
+Photocat. Initial 
+Photocat. size Light 
+
+Photocat. Contaminants dosage conc. pH -1
+k (min ) Ref
+
+(nm)* #
+type
+
+(g/L) (mg/L)
+
+ZnO Phenoxyacetic acid 0.30 N/A 15.00 6.00 1 0.0 1
+
+ZnO Phenoxyacetic acid 0.50 N/A 15.00 6.00 1 0.0 1
+
+ZnO Phenoxyacetic acid 0.30 N/A 25.00 6.00 1 0.0 1
+
+ZnO Phenoxyacetic acid 0.50 N/A 25.00 6.00 1 0.0 1
+
+ZnO Phenoxyacetic acid 0.30 N/A 15.00 8.00 1 0.1 1
+
+ZnO Phenoxyacetic acid 0.50 N/A 15.00 8.00 1 0.1 1
+
+ZnO Phenoxyacetic acid 0.30 N/A 25.00 8.00 1 0.0 1
+
+ZnO Phenoxyacetic acid 0.50 N/A 25.00 8.00 1 0.0 1
+
+ZnO Phenoxyacetic acid 0.20 N/A 20.00 7.00 1 0.0 1
+
+ZnO Phenoxyacetic acid 0.60 N/A 20.00 7.00 1 0.0 1
+
+ZnO Phenoxyacetic acid 0.40 N/A 10.00 7.00 1 0.1 1
+
+ZnO Phenoxyacetic acid 0.40 N/A 30.00 7.00 1 0.0 1
+
+ZnO Phenoxyacetic acid 0.40 N/A 20.00 5.00 1 0.0 1
+
+ZnO Phenoxyacetic acid 0.40 N/A 20.00 9.00 1 0.0 1
+
+ZnO Phenoxyacetic acid 0.40 N/A 20.00 7.00 1 0.1 1
+
+ZnO Phenoxyacetic acid 0.40 N/A 17.00 7.93 1 0.1 1
+
+ZnO Phenoxyacetic acid 0.40 N/A 17.00 7.12 1 0.1 1
+
+ZnO Phenoxyacetic acid 0.40 N/A 19.00 7.21 1 0.1 1
+
+ZnO Phenoxyacetic acid 0.40 N/A 16.00 6.73 1 0.1 1
+
+ZnO Phenoxyacetic acid 0.40 N/A 15.00 7.01 1 0.1 1
+
+ZnO 4-Nitrophenol 1.50 100-4000 27.82 1.00 3 0.0 2
+
+ZnO 4-Nitrophenol 1.50 100-4000 27.82 3.00 3 0.0 2
+
+ZnO 4-Nitrophenol 1.50 100-4000 27.82 5.00 3 0.0 2
+
+ZnO 4-Nitrophenol 1.50 100-4000 27.82 7.00 3 0.0 2
+
+ZnO 4-Nitrophenol 1.50 100-4000 27.82 9.00 3 0.0 2
+
+ZnO 4-Nitrophenol 1.50 100-4000 27.82 11.00 3 0.1 2
+
+ZnO 4-Nitrophenol 1.50 100-4000 55.64 5.00 3 0.0 2
+
+ZnO 4-Nitrophenol 1.50 100-4000 83.46 5.00 3 0.0 2
+
+ZnO 4-Nitrophenol 1.50 100-4000 111.28 5.00 3 0.0 2
+
+ZnO Congo red 0.20 30.1 16.02 N/A 1 0.0 3
+
+ZnO Direct blue 15 0.50 N/A 25.00 N/A 2 0.0 4
+
+
+
+ZnO Crystal violet 0.40 ~200 10.00 9.00 3 0.1 5
+
+ZnO Basic Blue-41 0.40 ~200 10.00 9.00 3 0.1 5
+
+ZnO Methyl red 0.40 ~200 10.00 9.00 3 0.0 5
+
+ZnO Triclocarban 1.00 >1000 0.11 7.00 1 0.0 6
+
+ZnO Ciprofloxacin 0.02 2.1 5.00 4.00 2 0.0 7
+
+
+
+ZnO Ciprofloxacin 0.02 2.1 5.00 7.00 2 0.0 7
+
+ZnO Ciprofloxacin 0.02 2.1 5.00 10.00 2 0.0 7
+
+ZnO Carbamazepine 0.05 N/A 1.00 7.00 2 0.0 8
+
+ZnO Diclofenac sodium 0.05 N/A 1.00 7.00 2 0.1 8
+
+ZnO Ibuprofen sodium 0.05 N/A 1.00 7.00 2 0.0 8
+
+ZnO Metronidazole 0.02 20-50 10.00 N/A 2 0.1 9
+
+ZnO 2-Chlorophenol 1.00 18 50.00 N/A 3 0.0 10
+
+ZnO Phenol 0.50 N/A 10.00 5.20 1 0.0 11
+
+ZnO Phenol 1.00 N/A 10.00 5.20 1 0.1 11
+
+ZnO Phenol 1.50 N/A 10.00 5.20 1 0.1 11
+
+ZnO Phenol 2.00 N/A 10.00 5.20 1 0.1 11
+
+ZnO Phenol 2.50 N/A 10.00 5.20 1 0.1 11
+
+ZnO Phenol 3.00 N/A 10.00 5.20 1 0.1 11
+
+ZnO Phenol 2.50 N/A 10.00 4.00 1 0.1 11
+
+ZnO Phenol 2.50 N/A 10.00 6.80 1 0.1 11
+
+ZnO Phenol 2.50 N/A 10.00 7.00 1 0.1 11
+
+ZnO Phenol 2.50 N/A 10.00 9.00 1 0.0 11
+
+ZnO Phenol 2.50 N/A 10.00 11.00 1 0.0 11
+
+ZnO Phenol 2.50 N/A 20.00 5.20 1 0.0 11
+
+ZnO Phenol 2.50 N/A 40.00 5.20 1 0.0 11
+
+ZnO Phenol 2.50 N/A 80.00 5.20 1 0.0 11
+
+ZnO Resorcinol 0.50 N/A 10.00 6.80 1 0.1 11
+
+ZnO Resorcinol 1.00 N/A 10.00 6.80 1 0.1 11
+
+ZnO Resorcinol 1.50 N/A 10.00 6.80 1 0.1 11
+
+ZnO Resorcinol 2.50 N/A 10.00 6.80 1 0.1 11
+
+ZnO Resorcinol 3.00 N/A 10.00 6.80 1 0.1 11
+
+ZnO Resorcinol 2.00 N/A 10.00 4.00 1 0.1 11
+
+ZnO Resorcinol 2.00 N/A 10.00 5.20 1 0.1 11
+
+ZnO Resorcinol 2.00 N/A 20.00 11.00 1 0.1 11
+
+ZnO Resorcinol 2.00 N/A 40.00 11.00 1 0.0 11
+
+ZnO Resorcinol 2.00 N/A 80.00 11.00 1 0.0 11
+
+SnO2 Rhodamine B 1.00 2.9 4.79 2.00 1 0.0 12
+
+SnO2 Rhodamine B 1.00 2.9 4.79 6.00 1 0.0 12
+
+SnO2 Rhodamine B 1.00 2.9 4.79 8.00 1 0.0 12
+
+SnO2 Direct blue 15 0.50 N/A 25.00 N/A 2 0.0 4
+
+
+
+SnO2 Methylene blue 0.22 4.5 10.00 N/A 1 0.0 13
+
+SnO2 Methylene blue 0.22 <44000 10.00 N/A 1 0.0 13
+
+SnO2 Methylene blue 0.25 15-20 31.99 N/A 1 0.1 14
+
+SnO2 Aniline 1.00 D120-280,L300 20.00 4.00 1 0.0 15
+
+SnO2 Aniline 1.00 D120-280,L300 20.00 7.00 1 0.1 15
+
+SnO2 Aniline 1.00 D120-280,L300 20.00 10.00 1 0.1 15
+
+
+
+SnO2 4-Nitroaniline 1.00 D120-280,L300 20.00 4.00 1 0.0 15
+
+SnO2 4-Nitroaniline 1.00 D120-280,L300 20.00 7.00 1 0.0 15
+
+SnO2 4-Nitroaniline 1.00 D120-280,L300 20.00 10.00 1 0.0 15
+
+SnO2 2,4-Dinitroaniline 1.00 D120-280,L300 20.00 4.00 1 0.0 15
+
+SnO2 2,4-Dinitroaniline 1.00 D120-280,L300 20.00 7.00 1 0.0 15
+
+SnO2 2,4-Dinitroaniline 1.00 D120-280,L300 20.00 10.00 1 0.0 15
+
+SnO2 Aniline 1.00 D80-100,L300 20.00 4.00 1 0.0 15
+
+SnO2 Aniline 1.00 D80-100,L300 20.00 7.00 1 0.0 15
+
+SnO2 Aniline 1.00 D80-100,L300 20.00 10.00 1 0.0 15
+
+SnO2 4-Nitroaniline 1.00 D80-100,L300 20.00 4.00 1 0.0 15
+
+SnO2 4-Nitroaniline 1.00 D80-100,L300 20.00 7.00 1 0.0 15
+
+SnO2 4-Nitroaniline 1.00 D80-100,L300 20.00 10.00 1 0.0 15
+
+SnO2 2,4-Dinitroaniline 1.00 D80-100,L300 20.00 4.00 1 0.0 15
+
+SnO2 2,4-Dinitroaniline 1.00 D80-100,L300 20.00 7.00 1 0.0 15
+
+SnO2 2,4-Dinitroaniline 1.00 D80-100,L300 20.00 10.00 1 0.0 15
+
+SnO2 Aniline 1.00 70-105 20.00 4.00 1 0.0 15
+
+SnO2 Aniline 1.00 70-105 20.00 7.00 1 0.0 15
+
+SnO2 Aniline 1.00 70-105 20.00 10.00 1 0.1 15
+
+SnO2 4-Nitroaniline 1.00 70-105 20.00 4.00 1 0.0 15
+
+SnO2 4-Nitroaniline 1.00 70-105 20.00 7.00 1 0.0 15
+
+SnO2 4-Nitroaniline 1.00 70-105 20.00 10.00 1 0.0 15
+
+SnO2 2,4-Dinitroaniline 1.00 70-105 20.00 4.00 1 0.0 15
+
+SnO2 2,4-Dinitroaniline 1.00 70-105 20.00 7.00 1 0.0 15
+
+SnO2 2,4-Dinitroaniline 1.00 70-105 20.00 10.00 1 0.0 15
+
+SnO2 Aniline 1.00 400-1800 20.00 4.00 1 0.0 15
+
+SnO2 Aniline 1.00 400-1800 20.00 7.00 1 0.0 15
+
+SnO2 Aniline 1.00 400-1800 20.00 10.00 1 0.0 15
+
+SnO2 4-Nitroaniline 1.00 400-1800 20.00 4.00 1 0.0 15
+
+SnO2 4-Nitroaniline 1.00 400-1800 20.00 7.00 1 0.0 15
+
+SnO2 4-Nitroaniline 1.00 400-1800 20.00 10.00 1 0.0 15
+
+SnO2 2,4-Dinitroaniline 1.00 400-1800 20.00 4.00 1 0.0 15
+
+SnO2 2,4-Dinitroaniline 1.00 400-1800 20.00 7.00 1 0.0 15
+
+SnO2 2,4-Dinitroaniline 1.00 400-1800 20.00 10.00 1 0.0 15
+
+SnO2 Crystal violet 0.40 86-230 10.00 9.00 3 0.0 5
+
+SnO2 Basic Blue-41 0.40 86-230 10.00 9.00 3 0.0 5
+
+
+
+SnO2 Methyl red 0.40 86-230 10.00 9.00 3 0.0 5
+
+SnO2 Rhodamine B 1.00 2.9 4.79 2.00 1 0.0 16
+
+SnO2 Rhodamine B 1.00 2.9 4.79 6.00 1 0.0 16
+
+SnO2 Rhodamine B 1.00 2.9 4.79 8.00 1 0.0 16
+
+SnO2 Amaranth 0.02 3.73 30.00 7.00 1 0.0 17
+
+SnO2 Amaranth 0.02 3.73 40.00 7.00 1 0.0 17
+
+
+
+SnO2 Amaranth 0.02 3.73 60.00 7.00 1 0.0 17
+
+SnO2 Amaranth 0.02 3.73 80.00 7.00 1 0.0 17
+
+SnO2 Amaranth 0.02 5.31 60.00 7.00 1 0.0 17
+
+SnO2 Amaranth 0.02 7.6 60.00 7.00 1 0.0 17
+
+SnO2 Methylene blue 0.50 N/A 10.00 N/A 1 0.0 18
+
+Fe2O3 Methylene blue 0.50 D75,L168 10.00 N/A 1 0.0 19
+
+Fe2O3 Methylene blue 0.50 D50-75 10.00 N/A 1 0.0 19
+
+Fe2O3 Methylene blue 0.50 D50-70,L100-150 10.00 N/A 1 0.0 19
+
+Fe2O3 Methylene blue 0.50 N/A 10.00 N/A 1 0.0 19
+
+Fe2O3 Methyl orange 1.00 70 40.00 N/A 1 0.0 20
+
+Fe2O3 Methyl orange 1.50 70 40.00 N/A 1 0.0 20
+
+Fe2O3 Methyl orange 2.00 70 40.00 N/A 1 0.0 20
+
+Fe2O3 Methylene blue 1.00 42 10.00 8.00 1 0.0 21
+
+Fe2O3 Methylene blue 1.00 42 10.00 9.00 1 0.1 21
+
+Fe2O3 Methylene blue 1.00 42 10.00 10.00 1 0.0 21
+
+Fe2O3 Methylene blue 1.00 42 2.00 N/A 1 0.0 21
+
+Fe2O3 Methylene blue 1.00 42 10.00 N/A 1 0.1 21
+
+Fe2O3 Methylene blue 1.00 42 10.00 N/A 1 0.0 21
+
+Fe2O3 Methylene blue 3.00 42 10.00 N/A 1 0.1 21
+
+Fe2O3 Rhodamine B 0.20 1400 5.00 7.00 1 0.0 22
+
+Fe2O3 Rhodamine B 1.00 1400 5.00 7.00 1 0.0 22
+
+Fe2O3 Rhodamine B 1.00 600 5.00 7.00 1 0.0 22
+
+Fe2O3 Rhodamine B 0.20 2200 5.00 7.00 1 0.0 22
+
+Fe2O3 Rhodamine B 1.00 2200 5.00 7.00 1 0.0 22
+
+Fe2O3 Rhodamine B 0.20 500 5.00 7.00 1 0.0 22
+
+Fe2O3 Rhodamine B 1.00 500 5.00 7.00 1 0.0 22
+
+Fe2O3 Atrazine 0.20 400 2.50 7.00 1 0.0 22
+
+Fe2O3 Atrazine 1.00 400 2.50 7.00 1 0.0 22
+
+Fe2O3 Atrazine 0.20 600 2.50 7.00 1 0.0 22
+
+Fe2O3 Atrazine 1.00 600 2.50 7.00 1 0.0 22
+
+Fe2O3 Atrazine 2.00 600 2.50 7.00 1 0.0 22
+
+Fe2O3 Rhodamine B 0.20 44 20.00 N/A 1 0.1 23
+
+Fe2O3 Bismarck Brown R 0.50 D10-30 21.25 7.00 2 0.0 24
+
+Fe2O3 Rhodamine B 0.30 120 10.00 N/A 3 0.0 25
+
+Fe2O3 Methylene blue 0.30 120 10.00 N/A 3 0.0 25
+
+
+
+Fe2O3 4-Nitrophenol 0.30 120 10.00 N/A 3 0.0 25
+
+Fe2O3 Methyl orange 0.30 120 10.00 N/A 3 0.0 25
+
+Fe2O3 Methylene blue 0.20 D30-50,L300-500 3.20 N/A 2 0.0 26
+
+Fe2O3 Methylene blue 0.20 20-30 3.20 N/A 2 0.0 26
+
+Fe2O3 Methylene blue 0.20 2000-3000 3.20 N/A 2 0.0 26
+
+Fe2O3 Rose bengal 0.38 20 35.05 N/A 3 0.0 27
+
+
+
+Fe2O3 Rose bengal 0.38 40 35.05 N/A 3 0.0 27
+
+Fe2O3 Salicylic acid 0.40 50-200 50.00 N/A 2 0.1 28
+
+Fe2O3 Salicylic acid 0.40 50-200 60.00 N/A 2 0.1 28
+
+Fe2O3 Salicylic acid 0.40 50-200 75.00 N/A 2 0.1 28
+
+Fe2O3 Salicylic acid 0.40 50-200 100.00 N/A 2 0.1 28
+
+Fe2O3 Methylene blue 1.00 55–100 3.20 N/A 3 0.0 29
+
+Fe2O3 Methylene blue 1.00 150–200 3.20 N/A 3 0.0 29
+
+Fe2O3 Salicylic acid 0.40 1000-2000 20.00 N/A 1 0.0 30
+
+Fe2O3 Salicylic acid 0.40 N/A 20.00 N/A 1 0.0 30
+
+Fe2O3 Malachite green 2.00 28.9 100.00 N/A 1 0.0 31
+
+Fe2O3 Malachite green 2.00 19.9 100.00 N/A 1 0.0 31
+
+Fe2O3 Malachite green 2.00 25.3 100.00 N/A 1 0.0 31
+
+Fe2O3 Rhodamine B 0.50 420-550 4.79 N/A 2 0.1 32
+
+Fe2O3 Rhodamine B 0.50 N/A 4.79 N/A 2 0.0 32
+
+Fe2O3 Methylene blue 0.02 250-2500 10.00 5.30 1 0.0 33
+
+Fe2O3 Methylene blue 0.05 250-2500 10.00 5.30 1 0.1 33
+
+Fe2O3 Methylene blue 0.10 250-2500 10.00 5.30 1 0.0 33
+
+Fe2O3 Methylene blue 0.05 250-2500 30.00 5.30 1 0.0 33
+
+Fe2O3 Methylene blue 0.05 250-2500 20.00 5.30 1 0.0 33
+
+Fe2O3 Methylene blue 0.05 250-2500 5.00 5.30 1 0.1 33
+
+TiO2 4-Chlorophenol 0.50 <44000 1.29 5.50 1 0.1 34
+
+TiO2 4-Chlorophenol 0.50 <44000 2.57 5.50 1 0.0 34
+
+TiO2 4-Chlorophenol 0.50 <44000 5.14 5.50 1 0.0 34
+
+TiO2 4-Chlorophenol 0.50 <44000 6.43 5.50 1 0.0 34
+
+TiO2 4-Chlorophenol 0.50 <44000 10.28 5.50 1 0.0 34
+
+TiO2 4-Chlorophenol 0.50 <44000 12.86 5.50 1 0.0 34
+
+TiO2 4-Chlorophenol 0.50 <44000 16.20 5.50 1 0.0 34
+
+TiO2 2,6-Dichlorophenol 0.50 <44000 3.26 5.50 1 0.1 34
+
+TiO2 2,6-Dichlorophenol 0.50 <44000 6.52 5.50 1 0.0 34
+
+TiO2 2,6-Dichlorophenol 0.50 <44000 8.15 5.50 1 0.0 34
+
+TiO2 2,6-Dichlorophenol 0.50 <44000 13.04 5.50 1 0.0 34
+
+TiO2 2,6-Dichlorophenol 0.50 <44000 16.30 5.50 1 0.0 34
+
+TiO2 Sulfanilamide 2.50 <40000 17.22 6.69 1 0.0 35
+
+Sulfacetamide 
+TiO2 2.50 <40000 23.62 7.35 1 0.0 35
+
+sodium
+
+TiO2 Sulfamethoxazole 2.50 <40000 25.33 5.63 1 0.0 35
+
+
+
+TiO2 Sulfadiazine sodium 2.50 <40000 27.23 6.60 1 0.0 35
+
+TiO2 Sulfathiazole sodium 2.50 <40000 27.73 7.10 1 0.0 35
+
+TiO2 Carbamazepine 0.10 <10 4.30 6.50 1 0.0 36
+
+TiO2 Carbamazepine 1.00 <10 4.30 6.50 1 0.0 36
+
+TiO2 Carbamazepine 0.10 <10 1.00 6.50 1 0.0 36
+
+TiO2 Carbamazepine 1.00 <10 1.00 6.50 1 0.1 36
+
+
+
+TiO2 Clofibric acid 0.05 <10 5.00 6.50 1 0.0 36
+
+TiO2 Clofibric acid 0.08 <10 5.00 6.50 1 0.0 36
+
+TiO2 Clofibric acid 0.50 <10 5.00 6.50 1 0.0 36
+
+TiO2 Clofibric acid 0.08 <10 0.50 6.50 1 0.0 36
+
+TiO2 Reactive violet 5 0.08 230 10.00 4.00 1 0.1 37
+
+TiO2 Reactive violet 5 0.08 230 10.00 5.00 1 0.1 37
+
+TiO2 Reactive violet 5 0.08 230 10.00 6.00 1 0.1 37
+
+TiO2 Reactive violet 5 0.08 230 10.00 8.00 1 0.1 37
+
+TiO2 Reactive violet 5 0.08 230 10.00 9.00 1 0.1 37
+
+TiO2 Reactive violet 5 0.08 230 10.00 10.00 1 0.1 37
+
+TiO2 Reactive violet 5 0.08 230 15.00 4.00 1 0.1 37
+
+TiO2 Reactive violet 5 0.08 230 20.00 4.00 1 0.1 37
+
+TiO2 Reactive violet 5 0.08 230 30.00 4.00 1 0.0 37
+
+TiO2 Reactive violet 5 0.08 230 40.00 4.00 1 0.0 37
+
+TiO2 Reactive violet 5 0.08 230 50.00 4.00 1 0.0 37
+
+TiO2 Reactive violet 5 0.01 230 10.00 4.00 1 0.0 37
+
+TiO2 Reactive violet 5 0.04 230 10.00 4.00 1 0.0 37
+
+TiO2 Reactive violet 5 0.05 230 10.00 4.00 1 0.0 37
+
+TiO2 Reactive violet 5 0.06 230 10.00 4.00 1 0.1 37
+
+TiO2 Reactive violet 5 0.07 230 10.00 4.00 1 0.1 37
+
+TiO2 Crystal violet 0.40 55-170 10.00 9.00 3 0.0 5
+
+TiO2 Basic blue 41 0.40 55-170 10.00 9.00 3 0.0 5
+
+TiO2 Methyl red 0.40 55-170 10.00 9.00 3 0.0 5
+
+TiO2 Reactive blue 4 1.00 <25 60.00 6.00 1 0.1 38
+
+TiO2 Methylene blue 2.00 37.71 100.00 N/A 1 0.0 39
+
+TiO2 Methyl orange 2.00 37.71 100.00 N/A 1 0.0 39
+
+TiO2 Rhodamine B 2.00 37.71 100.00 N/A 1 0.0 39
+
+TiO2 Carmine indigo 2.00 37.71 100.00 N/A 1 0.1 39
+
+TiO2 Eriochrome Black T 2.00 37.71 100.00 N/A 1 0.1 39
+
+WO3 Amoxicillin 0.10 <200 0.37 6.00 3 0.0 40
+
+WO3 Amoxicillin 0.10 <200 0.73 6.00 3 0.0 40
+
+WO3 Amoxicillin 0.30 <200 0.37 4.00 3 0.0 40
+
+WO3 Amoxicillin 0.30 <200 0.73 4.00 3 0.0 40
+
+WO3 Amoxicillin 0.50 <200 0.37 6.00 3 0.0 40
+
+WO3 Amoxicillin 0.50 <200 0.73 6.00 3 0.0 40
+
+
+
+WO3 Amoxicillin 0.10 <200 0.55 8.00 3 0.0 40
+
+WO3 Amoxicillin 0.50 <200 0.55 8.00 3 0.0 40
+
+WO3 Amoxicillin 0.30 <200 0.37 8.00 3 0.0 40
+
+WO3 Amoxicillin 0.10 <200 0.55 4.00 3 0.0 40
+
+WO3 Amoxicillin 0.30 <200 0.73 8.00 3 0.0 40
+
+WO3 Methylene blue 2.00 33.6 20.00 9.00 3 0.0 41
+
+
+
+WO3 Methylene blue 2.00 19.6 20.00 9.00 3 0.1 41
+
+WO3 Methylene blue 2.00 23.4 20.00 9.00 3 0.0 41
+
+WO3 Methylene blue 2.00 37.7 20.00 9.00 3 0.0 41
+
+WO3 Rhodamine B 0.40 4000 10.00 N/A 1 0.0 42
+
+WO3 Rhodamine B 0.40 3500 10.00 N/A 1 0.1 42
+
+WO3 Rhodamine B 0.40 4000 10.00 N/A 2 0.0 42
+
+WO3 Rhodamine B 0.40 3500 10.00 N/A 2 0.0 42
+
+WO3 Rhodamine B 3.00 80-100 5.00 N/A 2 0.0 43
+
+WO3 Rhodamine B 3.00 4000 5.00 N/A 2 0.0 43
+
+WO3 Rhodamine B 1.00 18 5.00 N/A 2 0.0 44
+
+WO3 Rhodamine B 1.00 19 5.00 N/A 2 0.0 44
+
+WO3 Rhodamine B 1.00 16 5.00 N/A 2 0.0 44
+
+WO3 Rhodamine B 1.00 15 5.00 N/A 2 0.0 44
+
+WO3 Rhodamine B 1.00 20 5.00 N/A 2 0.0 44
+
+WO3 Rhodamine B 1.00 17 5.00 N/A 2 0.0 44
+
+WO3 Rhodamine B 1.00 >100 5.00 N/A 2 0.0 44
+
+WO3 Indigo carmine 1.00 18 30.00 N/A 2 0.0 44
+
+WO3 Indigo carmine 1.00 19 30.00 N/A 2 0.0 44
+
+WO3 Indigo carmine 1.00 16 30.00 N/A 2 0.0 44
+
+WO3 Indigo carmine 1.00 15 30.00 N/A 2 0.1 44
+
+WO3 Indigo carmine 1.00 20 30.00 N/A 2 0.0 44
+
+WO3 Indigo carmine 1.00 17 30.00 N/A 2 0.0 44
+
+WO3 Indigo carmine 1.00 >100 30.00 N/A 2 0.0 44
+
+WO3 Congo red 1.00 18 20.00 N/A 2 0.0 44
+
+WO3 Congo red 1.00 19 20.00 N/A 2 0.0 44
+
+WO3 Congo red 1.00 16 20.00 N/A 2 0.0 44
+
+WO3 Congo red 3.00 18 20.00 N/A 2 0.0 44
+
+WO3 Congo red 1.00 >100 20.00 N/A 2 0.0 44
+
+WO3 Indigo carmine 1.00 >100 30.00 N/A 1 0.0 45
+
+WO3 Indigo carmine 1.00 >100 30.00 N/A 1 0.0 45
+
+WO3 Indigo carmine 1.00 >100 30.00 N/A 1 0.0 45
+
+WO3 Indigo carmine 1.00 >100 30.00 N/A 1 0.0 45
+
+WO3 Rhodamine B 1.00 >100 5.00 N/A 1 0.0 45
+
+WO3 Rhodamine B 1.00 >100 5.00 N/A 1 0.0 45
+
+WO3 Rhodamine B 1.00 >100 5.00 N/A 1 0.0 45
+
+
+
+WO3 Rhodamine B 1.00 >100 5.00 N/A 1 0.0 45
+
+WO3 Methyl orange 1.00 >100 10.00 N/A 1 0.0 45
+
+WO3 Methyl orange 1.00 >100 10.00 N/A 1 0.0 45
+
+WO3 Methyl orange 1.00 >100 10.00 N/A 1 0.0 45
+
+WO3 Methyl orange 1.00 >100 10.00 N/A 1 0.0 45
+
+WO3 Congo red 1.00 >100 20.00 N/A 1 0.0 45
+
+
+
+WO3 Congo red 1.00 >100 20.00 N/A 1 0.0 45
+
+WO3 Congo red 1.00 >100 20.00 N/A 1 0.0 45
+
+WO3 Congo red 1.00 >100 20.00 N/A 1 0.0 45
+
+WO3 Methylene blue 1.00 26.41 10.00 N/A 2 0.0 46
+
+WO3 Rhodamine B 1.00 20-100 5.00 N/A 3 0.0 47
+
+WO3 Rhodamine B 1.00 20-100 5.00 N/A 3 0.0 47
+
+WO3 Rhodamine B 1.00 20-100 5.00 N/A 3 0.0 47
+
+WO3 Rhodamine B 1.00 20-100 5.00 N/A 3 0.0 47
+
+WO3 Rhodamine B 1.00 20-100 5.00 N/A 3 0.0 47
+
+WO3 Indigo carmine 1.00 20-100 30.00 N/A 3 0.0 47
+
+WO3 Indigo carmine 1.00 20-100 30.00 N/A 3 0.0 47
+
+WO3 Indigo carmine 1.00 20-100 30.00 N/A 3 0.0 47
+
+WO3 Indigo carmine 1.00 20-100 30.00 N/A 3 0.0 47
+
+WO3 Indigo carmine 1.00 20-100 30.00 N/A 3 0.0 47
+
+WO3 Rhodamine B 1.00 20-100 20.00 N/A 3 0.0 47
+
+WO3 Rhodamine B 1.00 20-100 20.00 N/A 3 0.0 47
+
+WO3 Rhodamine B 1.00 100 5.00 6.00 3 0.0 48
+
+WO3 Rhodamine B 1.00 10-50 5.00 6.00 3 0.0 48
+
+WO3 Rhodamine B 1.00 10-50 5.00 6.00 3 0.0 48
+
+WO3 Rhodamine B 1.00 10-50 5.00 6.00 3 0.0 48
+
+WO3 Rhodamine B 1.00 10-50 5.00 6.00 3 0.0 48
+
+WO3 Indigo carmine 1.00 100 30.00 6.00 3 0.0 48
+
+WO3 Indigo carmine 1.00 10-50 30.00 6.00 3 0.0 48
+
+WO3 Indigo carmine 1.00 10-50 30.00 6.00 3 0.0 48
+
+WO3 Indigo carmine 1.00 10-50 30.00 6.00 3 0.0 48
+
+WO3 Indigo carmine 1.00 10-50 30.00 6.00 3 0.0 48
+
+WO3 Congo red 1.00 100 20.00 6.00 3 0.0 48
+
+WO3 Congo red 1.00 10-50 20.00 6.00 3 0.0 48
+
+WO3 Congo red 1.00 10-50 20.00 6.00 3 0.0 48
+
+WO3 Congo red 1.00 10-50 20.00 6.00 3 0.0 48
+
+WO3 Congo red 1.00 10-50 20.00 6.00 3 0.0 48
+
+WO3 Phenol 2.00 D200-800,L35-40 30.00 N/A 3 0.0 49
+
+WO3 2-Chlorophenol 2.00 D200-800,L35-40 30.00 N/A 3 0.0 49
+
+WO3 Resorcinol 2.00 D200-800,L35-40 30.00 N/A 3 0.0 49
+
+WO3 2-Nitrophenol 2.00 D200-800,L35-40 30.00 N/A 3 0.0 49
+
+
+
+-MnO2 Methylene blue 0.50 N/A 10.00 N/A 2 0.0 50
+
+-MnO2 Methylene blue 0.04 50-100 9.60 N/A 1 0.0 51
+
+-MnO2 Eosin yellow 0.04 50-100 20.76 N/A 1 0.0 51
+
+-MnO2 Methylene blue 0.04 50-100 9.60 N/A 3 0.1 51
+
+-MnO2 Eosin yellow 0.04 50-100 20.76 N/A 3 0.0 51
+
+-MnO2 Rhodamine B 0.16 15-20 9.60 3.00 3 0.1 52
+
+
+
+-MnO2 Rhodamine B 0.16 15-20 9.60 5.00 3 0.0 52
+
+-MnO2 Rhodamine B 0.16 15-20 9.60 7.00 3 0.0 52
+
+-MnO2 Rose bengal 0.50 N/A 29.21 6.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 29.21 6.50 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 29.21 7.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 29.21 7.50 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 29.21 8.50 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 29.21 9.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 29.21 9.50 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 29.21 10.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 19.47 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 21.91 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 24.34 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 26.78 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 31.64 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 34.08 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 36.51 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 38.95 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.10 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.20 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.30 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.40 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.60 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.70 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.80 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.90 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Rose bengal 0.50 N/A 29.21 8.00 3 0.0 53
+
+-MnO2 Methylene blue 0.16 3200 4.48 5.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 4.48 6.00 3 0.0 54
+
+
+
+-MnO2 Methylene blue 0.16 3200 4.48 6.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 4.48 7.00 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 4.48 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 4.48 8.00 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 4.48 8.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 4.48 9.00 3 0.0 54
+
+
+
+-MnO2 Azure B 0.20 3200 15.29 5.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 6.00 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 7.00 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 7.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 8.00 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 8.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 9.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 5.50 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 6.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 6.50 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 7.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 7.50 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 8.50 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 9.00 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 2.62 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 3.20 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 3.90 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 4.54 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 5.15 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 5.79 7.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 10.70 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 12.23 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 13.76 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 16.82 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 18.35 6.50 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 10.70 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 13.76 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 15.29 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 16.82 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 18.35 8.00 3 0.0 54
+
+-MnO2 Methylene blue 0.05 3200 4.48 7.50 3 0.0 54
+
+
+
+-MnO2 Methylene blue 0.10 3200 4.48 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.15 3200 4.48 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.20 3200 4.48 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.25 3200 4.48 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.30 3200 4.48 7.50 3 0.0 54
+
+-MnO2 Azure B 0.05 3200 15.29 6.50 3 0.0 54
+
+
+
+-MnO2 Azure B 0.10 3200 15.29 6.50 3 0.0 54
+
+-MnO2 Azure B 0.15 3200 15.29 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 6.50 3 0.0 54
+
+-MnO2 Azure B 0.25 3200 15.29 6.50 3 0.0 54
+
+-MnO2 Azure B 0.30 3200 15.29 6.50 3 0.0 54
+
+-MnO2 Toluidine blue 0.05 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.10 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.15 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.25 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.30 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 4.48 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 4.48 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 4.48 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 4.48 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 4.48 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 4.48 7.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 6.50 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Methylene blue 0.16 800 4.48 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 1600 4.48 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 2400 4.48 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 3200 4.48 7.50 3 0.0 54
+
+-MnO2 Methylene blue 0.16 4000 4.48 7.50 3 0.0 54
+
+-MnO2 Azure B 0.20 800 15.29 6.50 3 0.0 54
+
+
+
+-MnO2 Azure B 0.20 1600 15.29 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 2400 15.29 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 3200 15.29 6.50 3 0.0 54
+
+-MnO2 Azure B 0.20 4000 15.29 6.50 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 800 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 1600 12.23 8.00 3 0.0 54
+
+
+
+-MnO2 Toluidine blue 0.20 2400 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 3200 12.23 8.00 3 0.0 54
+
+-MnO2 Toluidine blue 0.20 4000 12.23 8.00 3 0.0 54
+
+*D denotes diameter. L denotes length. 
+#
+
+For light type, 1 denotes UV, 2 denotes visible light, and 3 denotes sunlight. 
+
+References: 
+
+[1] Lee, K. M., Hamid, S. B. A., & Lai, C. W. (2015). Mechanism and kinetics study for
+photocatalytic oxidation degradation: a case study for phenoxyacetic acid organic
+p[2o]l lRutaajnamt. aJonuicrknaaml o, fD N.,a &no Smhaatnetrhiai,l sM, 2. 0(21051, 69). . Photocatalytic degradation of an organic 
+pollutant 
+
+[b3y]  zGinücy ,o Nxi.d, eÇ–askoalar,r  Sp.r,o &ce Össz. aAcraarb, iMan.  (J2o0u1rn6a).l  Cofo mChpeamrisisotnry o, f9 p, aSl1la8d5i8u-mS/1z8in6c8 .o xide 
+photocatalysts
+prepared by different palladium doping methods for congo red degradation. Journal of 
+c[4o]l lLoiadm abnad, R., Umar, A., Mehta, S. K., & Kansal, S. K. (2015). Well-crystalline porous 
+ZnO–
+SnO2 nanosheets: An effective visible-light driven photocatalyst and highly sensitive smart 
+s[5en] sSohri nde, D. R., Tambade, P. S., Chaskar, M. G., & Gadave, K. M. (2017). Photocatalytic 
+degradation of dyes in water by analytical reagent grades ZnO, TiO 2 and SnO 2: a 
+comparative 
+study. Drinking Water Engineering and Science, 10(2), 109-117. 
+[E6f]f eHcwtivaenngebsos,  oMf .z,i Cncla oyxciodme-ba,s Esi.s tCe.d,  Lphiuo,t oYc.a, tAallyivsiiso ,f oTr.  cEo.n, cBearnneerdj eceo, nSs.t,i t&ue Cnthsu i,n K r.e cHla. i(m20e1d9).
+
+wastewater: 1, 4-Dioxane, trihalomethanes, antibiotics, antibiotic resistant bacteria (ARB), 
+and
+
+[a7n]t iEbilo-Ktice mreasriys,t aMnc.,e E gle-Snehsa m(AyR, HG.s,) &. S Ecile-Mnceeh oafs sTehbe,  IT. o(2ta0l1 E0n).v Pirhoontmoceantta, l6y4ti9c,  d1e1g8r9a-d1a1ti9o7n.  of
+ciprofloxacin drug in water using ZnO nanoparticles. Journal of Luminescence, 130(12), 
+2327-
+2[83]3 B1.o hdziewicz, J., Kudlek, E., & Dudziak, M. (2016). Influence of the catalyst type (TiO2 
+and
+ZnO) on the photocatalytic oxidation of pharmaceuticals in the aquatic environment. 
+D[9e]s Balhinuaytaino,n B ., Paul, B., Purkayastha, D. D., Dhar, S. S., & Behera, S. (2016). Facile 
+synthesis 
+and characterization of zinc oxide nanoparticles and studies of their catalytic activity 
+towards 
+[10] Ba-Abbad, M. M., Kadhum, A. A. H., Mohamad, A. B., Takriff, M. S., & Sopian, K. (2013)
+
+Visible light photocatalytic activity of Fe3+-doped ZnO nanoparticle prepared via sol–gel
+technique. Chemosphere, 91(11), 1604-1611. 
+
+[11] Sin, J. C., Lam, S. M., Lee, K. T., & Mohamed, A. R. (2013). Degrading two endocrine-
+disrupting chemicals from water by UV irradiation with the presence of
+nanophotocatalysts. Desalination and Water Treatment, 51(16-18), 3505-3520. 
+
+
+
+[12] Wu, S., Cao, H., Yin, S., Liu, X., & Zhang, X. (2009). Amino acid-assisted 
+hydrothermal
+synthesis and photocatalysis of SnO2 nanocrystals. The Journal of Physical Chemistry C, 
+1[1133]( 4K1i)m, , S. P., Choi, M. Y., & Choi, H. C. (2016). Photocatalytic activity of SnO2 
+nanoparticles 
+in methylene blue degradation. Materials Research Bulletin, 74, 85-89. 
+
+
+
+[14] Elango, G., & Roopan, S. M. (2016). Efficacy of SnO2 nanoparticles toward photocatalytic
+degradation of methylene blue dye. Journal of Photochemistry and Photobiology B: Biology, 155,
+34-38. 
+
+[15] Talebian, N., & Jafarinezhad, F. (2013). Morphology-controlled synthesis of SnO2
+nanostructures using hydrothermal method and their photocatalytic applications. Ceramics
+International, 39(7), 8311-8317. 
+
+[16] Wu, S., Cao, H., Yin, S., Liu, X., & Zhang, X. (2009). Amino acid-assisted hydrothermal
+synthesis and photocatalysis of SnO2 nanocrystals. The Journal of Physical Chemistry C, 113(41), 
+17893-17898. 
+
+[17] Esmaielzadeh Kandjani, A., Farzalipour Tabriz, M., Arefian, N. A., Vaezi, M. R., Halek, F., 
+& Sadrnezhaad, S. K. (2010). Photocatalytic decoloration of Acid Red 27 in presence of SnO2
+nanoparticles. Water Science and Technology, 62(6), 1256-1264. 
+
+[18] Das, O. R., Uddin, M. T., Rahman, M. M., & Bhoumick, M. C. (2018, September). Highly 
+active carbon supported Sn/SnO2 photocatalysts for degrading organic dyes. In Journal of Physics: 
+Conference Series (Vol. 1086, No. 1, p. 012011). IOP Publishing. 
+
+[19] Vu, X. H., Phuoc, L. H., Dien, N. D., Pham, T. T. H., & Thanh, L. D. (2019). Photocatalytic 
+Degradation of Methylene Blue (MB) over α-Fe 2 O 3 Nanospindles Prepared by a Hydrothermal
+Route. Journal of Electronic Materials, 48(5), 2978-2985. 
+
+[20] Sharma, P., Kumar, R., Chauhan, S., Singh, D., & Chauhan, M. S. (2014). Facile growth and
+characterization of α-Fe2O3 nanoparticles for photocatalytic degradation of methyl orange.
+Journal of Nanoscience and Nanotechnology, 14(8), 6153-6157. 
+[21] Imran, M., Abutaleb, A., Ali, M. A., Ahamad, T., Ansari, A. R., Shariq, M., ... & Khan, A.
+(2020). UV light enabled photocatalytic activity of α-Fe2O3 nanoparticles synthesized via phase 
+transformation. Materials Letters, 258, 126748. 
+
+[22] Rincón Joya, M., Barba Ortega, J., Malafatti, J. O. D., & Paris, E. C. (2019). Evaluation of 
+Photocatalytic Activity in Water Pollutants and Cytotoxic Response of α-Fe2O3 Nanoparticles.
+ACS omega, 4(17), 17477-17486. 
+[23] Jahagirdar, A. A., Ahmed, M. Z., Donappa, N., Nagabhushana, H., & Nagabhushana, B. M.
+(2014). Photocatalytic degradation of rhodamine B using nanocrystalline α-Fe 2 O 3. J. Mater.
+Environ. Sci, 5(5), 1426-1433. 
+
+[24] Ismail, A. A., Ali, A. M., Harraz, F. A., Faisal, M., Shoukry, H., & Al-Salami, A. E. (2019). 
+A Facile Synthesis of alpha-Fe2O3/Carbon Nanotubes and Their Photocatalytic and
+Electrochemical Sensing Performances. Int. J. Electrochem. Sci, 14, 15-32. 
+
+[25] Liu, X., Chen, K., Shim, J. J., & Huang, J. (2015). Facile synthesis of porous Fe2O3 nanorods
+and their photocatalytic properties. Journal of Saudi Chemical Society, 19(5), 479-484. [26] Zhang, 
+G. Y., Feng, Y., Xu, Y. Y., Gao, D. Z., & Sun, Y. Q. (2012). Controlled synthesis of mesoporous 
+α-Fe2O3 nanorods and visible light photocatalytic property. Materials Research Bulletin, 47(3), 
+625-630. 
+
+[27] Maji, S. K., Mukherjee, N., Mondal, A., & Adhikary, B. (2012). Synthesis, characterization
+and photocatalytic activity of α-Fe2O3 nanoparticles. Polyhedron, 33(1), 145-149. 
+
+
+
+[28] Pal, B., & Sharon, M. (1998). Photocatalytic degradation of salicylic acid by colloidal Fe2O3 
+particles. Journal of Chemical Technology & Biotechnology: International Research in Process,
+Environmental AND Clean Technology, 73(3), 269-273. 
+
+[29] Diaz, C., Barrientos, L., Carrillo, D., Valdebenito, J., Valenzuela, M. L., Allende, P., ... & 
+O'Dwyer, C. (2016). Solvent-less method for efficient photocatalytic α-Fe 2 O 3 nanoparticles 
+using macromolecular polymeric precursors. New Journal of Chemistry, 40(8), 6768-6776. 
+
+
+
+[30] Xu, J. S., & Zhu, Y. J. (2011). α-Fe 2 O 3 hierarchically hollow microspheres self-assembled
+with nanosheets: surfactant-free solvothermal synthesis, magnetic and photocatalytic properties. 
+CrystEngComm, 13(16), 5162-5169. 
+
+[31] Pawar, M. J., & Khajone, A. D. (2012). Photodegradation of malachite green dye over sol-gel 
+synthesized nanocrystalline α-Fe2O3. Journal of Chemical and Pharmaceutical Research, 4(4),
+1880-1884. 
+
+[32] Cheng, X. L., Jiang, J. S., Hu, M., Mao, G. Y., Bu, F. X., Lin, C. C., ... & Zhang, Q. H. (2012). 
+Controlled synthesis of novel flowerlike α-Fe 2 O 3 nanostructures via a one-step biphasic
+interfacial reaction route. CrystEngComm, 14(22), 7701-7708. 
+
+[33] Liu, Y., Yu, H., Zhan, S., Li, Y., Lv, Z., Yang, X., & Yu, Y. (2011). Fast degradation of 
+methylene blue with electrospun hierarchical α-Fe 2 O 3 nanostructured fibers. Journal of sol-gel
+science and technology, 58(3), 716. 
+
+[34] Pino, E., & Encinas, M. V. (2012). Photocatalytic degradation of chlorophenols on TiO2-
+325mesh and TiO2-P25. An extended kinetic study of photodegradation under competitive 
+conditions. Journal of photochemistry and photobiology A: Chemistry, 242, 20-27. 
+
+[35] Baran, W., Adamek, E., Sobczak, A., & Makowski, A. (2009). Photocatalytic degradation of 
+sulfa drugs with TiO2, Fe salts and TiO2/FeCl3 in aquatic environment—Kinetics and degradation
+pathway. Applied Catalysis B: Environmental, 90(3-4), 516-525. 
+
+[36] Doll, T. E., & Frimmel, F. H. (2004). Kinetic study of photocatalytic degradation of
+carbamazepine, clofibric acid, iomeprol and iopromide assisted by different TiO2 materials—
+determination of intermediates and reaction pathways. Water research, 38(4), 955-964. 
+
+[37] Chung, Y. C., & Chen, C. Y. (2009). Degradation of azo dye reactive violet 5 by TiO 2
+photocatalysis. Environmental Chemistry Letters, 7(4), 347-352. 
+[38] Samsudin, E. M., Goh, S. N., Wu, T. Y., Ling, T. T., Hamid, S. A., & Juan, J. C. (2015).
+Evaluation on the photocatalytic degradation activity of reactive blue 4 using pure anatase nano-
+TiO2. Sains Malaysiana, 44(7), 1011-1019. 
+[39] Gautam, A., Kshirsagar, A., Biswas, R., Banerjee, S., & Khanna, P. K. (2016).
+Photodegradation of organic dyes based on anatase and rutile TiO 2 nanoparticles. RSC 
+Advances, 6(4), 2746-2759. 
+
+[40] Nguyen, T. T., Nam, S. N., Son, J., & Oh, J. (2019). Tungsten Trioxide (WO 3)-assisted
+Photocatalytic Degradation of Amoxicillin by Simulated Solar Irradiation. Scientific Reports, 9(1),
+9349. 
+[41] Vamvasakis, I., Georgaki, I., Vernardou, D., Kenanakis, G., & Katsarakis, N. (2015).
+
+Synthesis of WO 3 catalytic powders: evaluation of photocatalytic activity under NUV/visible 
+light irradiation and alkaline reaction pH. Journal of Sol-Gel Science and Technology, 76(1), 120-
+128. 
+
+[42] Huang, J., Xu, X., Gu, C., Fu, G., Wang, W., & Liu, J. (2012). Flower-like and hollow sphere-
+like WO3 porous nanostructures: Selective synthesis and their photocatalysis property. Materials 
+Research Bulletin, 47(11), 3224-3232. 
+
+[43] Huang, J., Xiao, L., & Yang, X. (2013). WO3 nanoplates, hierarchical flower-like assemblies 
+and their photocatalytic properties. Materials Research Bulletin, 48(8), 2782-2785. 
+
+
+
+[44] Martínez-de la Cruz, A., Martínez, D. S., & Cuéllar, E. L. (2010). Synthesis and
+characterization of WO3 nanoparticles prepared by the precipitation method: evaluation of
+photocatalytic activity under vis-irradiation. Solid State Sciences, 12(1), 88-94. 
+
+
+
+[45] Sánchez-Martínez, D., Martínez-De La Cruz, A., & López-Cuéllar, E. (2013). Synthesis of
+WO3 nanoparticles by citric acid-assisted precipitation and evaluation of their photocatalytic 
+properties. Materials Research Bulletin, 48(2), 691-697. 
+
+[46] Luxmi, V., & Kumar, A. (2019). Enhanced photocatalytic performance of m-WO3 and m-Fe-
+doped WO3 cuboids synthesized via sol-gel approach using egg albumen as a solvent. Materials 
+Science in Semiconductor Processing, 104, 104690. 
+
+[47] Hernandez-Uresti, D. B., Sánchez-Martínez, D., Martínez-De La Cruz, A., Sepúlveda-
+Guzmán, S., & Torres-Martínez, L. M. (2014). Characterization and photocatalytic properties of 
+hexagonal and monoclinic WO3 prepared via microwave-assisted hydrothermal
+synthesis. Ceramics International, 40(3), 4767-4775. 
+
+[48] Martínez, D. S., Martínez-De La Cruz, A., & Cuéllar, E. L. (2011). Photocatalytic properties 
+of WO3 nanoparticles obtained by precipitation in presence of urea as complexing agent. Applied 
+Catalysis A: General, 398(1-2), 179-186. 
+
+[49] Aslam, M., Ismail, I. M., Chandrasekaran, S., & Hameed, A. (2014). Morphology controlled 
+bulk synthesis of disc-shaped WO3 powder and evaluation of its photocatalytic activity for the 
+degradation of phenols. Journal of hazardous materials, 276, 120-128. 
+
+[50] Zhao, J., Nan, J., Zhao, Z., Li, N., Liu, J., & Cui, F. (2017). Energy-efficient fabrication of a 
+novel multivalence Mn3O4-MnO2 heterojunction for dye degradation under visible light
+irradiation. Applied Catalysis B: Environmental, 202, 509-517. 
+
+[51] Das, S., Samanta, A., & Jana, S. (2017). Light-assisted synthesis of hierarchical flower-like 
+MnO2 nanocomposites with solar light induced enhanced photocatalytic activity. ACS Sustainable 
+Chemistry & Engineering, 5(10), 9086-9094. 
+
+[52] Gagrani, A., Zhou, J., & Tsuzuki, T. (2018). Solvent free mechanochemical synthesis of 
+MnO2 for the efficient degradation of Rhodamine-B. Ceramics International, 44(5), 4694-4698. 
+[53] Mittal, N., Shah, A., Punjabi, P. B., & Sharma, V. K. (2009). Photodegradation of rose bengal 
+using MnO2 (manganese dioxide). Rasayan J. chem, 2(2), 516-520. 
+
+[54] Ameta, K. L., Malkani, R. K., & Ameta, S. C. (2010). USE OF SEMICONDUCTING
+MANGANESE(IV) OXIDE PARTICULATE SYSTEM AS A PHOTOCATALYST:
+PHOTOASSISTED BLEACHING OF SOME DYES. International Journal of Chemical Sciences, 
+8(3), 1658-1668. 
+ 

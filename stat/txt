@@ -1,0 +1,58 @@
+Chapter 8: T-Test
+Definition
+T-Test: A statistical test used when sample size is small (n < 30) or population standard deviation is unknown.
+When to Use:
+? Small sample (n < 30) OR
+? Population standard deviation unknown
+? Sample follows approximately normal distribution
+
+
+Types of T-Test
+1. One-Sample T-Test: Compare sample mean with known value 2. Independent T-Test: Compare means of two different groups
+ 3. Paired T-Test: Compare before-and-after data of same group
+Example 1: One-Sample T-Test - Coffee Shop Sales
+Situation: Coffee shop owner thinks average daily sales increased from last year's ?5000.
+Data: 15 recent days sales
+?5200, ?4800, ?5400, ?5100, ?5300, ?4900, ?5250, ?5050,
+?5150, ?5350, ?4950, ?5180, ?5080, ?5220, ?5120
+
+Calculations:
+? Sample mean = ?5140
+? Sample standard deviation = ?168
+? Sample size = 15
+T-Test:
+t = (5140 - 5000) / (168 / ?15)
+t = 140 / 43.4
+t = 3.23
+
+Result: With t = 3.23 and 14 degrees of freedom, sales significantly increased!
+Example 2: Independent T-Test - Comparing Two Classes
+Situation: Compare test scores of two different classes.
+Class A (20 students): 85, 88, 82, 90, 87, 84, 89, 86, 83, 91, 85, 87, 84, 88, 86, 89, 82, 90, 85, 87 Average A = 86.2
+Class B (18 students): 78, 81, 79, 83, 80, 77, 82, 79, 81, 84, 78, 80, 82, 79, 81, 83, 77, 80 Average B = 80.2
+Question: Is 6-point difference significant?
+T-Test Result: Yes, Class A performed significantly better than Class B.
+Example 3: Paired T-Test - Weight Loss Program
+Situation: Test if weight loss program works.
+Same 10 people, before and after:
+Person  Before  After  Difference
+1       80      77     -3
+2       85      82     -3
+3       90      85     -5
+4       75      74     -1
+5       88      84     -4
+6       92      88     -4
+7       78      76     -2
+8       86      83     -3
+9       91      87     -4
+10      82      79     -3
+
+Average difference = -3.2 kg
+T-Test: Is -3.2 kg weight loss significant or just normal variation?
+Result: Yes, the weight loss program works significantly!
+Example 4: Restaurant Rating Comparison
+Situation: Restaurant owner changed menu. Compare ratings before and after.
+Before Menu Change (12 days): 4.1, 4.0, 4.2, 3.9, 4.1, 4.0, 4.3, 3.8, 4.2, 4.1, 4.0, 4.1 Average = 4.07
+After Menu Change (12 days): 4.4, 4.3, 4.5, 4.2, 4.6, 4.3, 4.4, 4.1, 4.5, 4.4, 4.2, 4.3
+ Average = 4.35
+T-Test: Is 0.28 improvement significant? Yes!
